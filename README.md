@@ -6,7 +6,7 @@
 			<hr align="center" width="100">
 		</div>
 		<div align="center">
-			<a href="https://scripstos.github.io/a.html"><big><b>Крутые фоны каждый день!</b></big></a>
+			<a href="https://scripstos.github.io/a.html" target="_blank"><big><b>Крутые фоны каждый день!</b></big></a>
 			<hr width="100">
 		</div>
 	</body>
